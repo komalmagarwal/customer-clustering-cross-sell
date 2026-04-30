@@ -5,8 +5,8 @@ clustering techniques to identify cross-sell opportunities across
 data monetization products.
 
 Built for a securities exchange client, the model analysed 
-transaction history and behavioural patterns to group customers — 
-including hedge funds, proprietary traders, and HNWIs — and 
+transaction history and behavioural patterns to group customers 
+including hedge funds, proprietary traders, and HNWIs and 
 surface targeted product recommendations such as real-time market 
 data feeds and premium analytics services.
 
